@@ -20,6 +20,8 @@
 
     <?php
     echo "My first PHP";
+
+    echo phpinfo();
     ?>
 
     </body>
